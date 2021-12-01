@@ -13,7 +13,29 @@ header{
     color: white;
     font-size: 20px;
     position: relative;
-    margin-bottom: 80px;
+    border-bottom: 1px solid white;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+    height: 50px;
+}
+
+nav p {
+    display: inline-block;
+    text-align: center;
+    padding: 15px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+nav a {
+    color: white;
 }
 
 section {
@@ -33,6 +55,7 @@ section h3, h2 {
 section h2{
     font-size: 25px;
     font-weight: bold;
+    text-decoration: underline;
 }
 
 section h3{
@@ -50,7 +73,11 @@ section div {
     margin-top: 20px;
 }
 
-.colors div{
+#colors {
+    margin-top: 80px;
+}
+
+#colors div{
     border-radius: 5%;
 }
 
@@ -120,11 +147,11 @@ section div {
     color: black;
 }
 
-.fonts p{
+#fonts p{
     padding: 5px;
 }
 
-.fonts div{
+#fonts div{
     margin: 40px;
 }
 
@@ -158,7 +185,7 @@ section div {
     font-weight: 700;
 }
 
-.text-styles li {
+#text-styles li {
     margin: 0px auto;
     width: 30%;
     text-align: left;
