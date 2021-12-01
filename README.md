@@ -1,6 +1,6 @@
 # Website Design System
 
-A set o design rules for personal use
+A set of design rules for personal use
 
 ## Table of contents
 - [General info](#general-info)
