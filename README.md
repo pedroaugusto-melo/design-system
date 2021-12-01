@@ -14,7 +14,7 @@ Some design rules that I will use as reference in future projects
 
 ## Objective
 
-Put in practice the concepts learned about HTML and CSS, especially about box-model, positioning and display.
+Put in practice the concepts that I've learnt about HTML and CSS, especially about box-model, positioning and display.
 
 ## Technologies
 
